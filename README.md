@@ -1,4 +1,4 @@
-# octicons-rails
+# octicons-rails [![Gem Version](http://img.shields.io/gem/v/octicons-rails.svg)](https://rubygems.org/gems/octicons-rails)
 
 Provides [Octicons](http://octicons.github.com/) web fonts and stylesheets as a Rails engine for use with the asset pipeline.
 
