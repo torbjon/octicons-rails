@@ -21,6 +21,6 @@ Add the following to your `app/assets/stylesheets/application.scss`:
 
 ## License
 
-* The [Octicons]((http://octicons.github.com/)) font license: SIL OFL 1.1 (http://scripts.sil.org/OFL)
-* The [Octicons]((http://octicons.github.com/)) code license: MIT (http://choosealicense.com/licenses/mit/)
-* The [gem octicons-rails](http://github.com/octicons-rails) code licence: MIT (http://choosealicense.com/licenses/mit/)
+* The [Octicons](http://octicons.github.com) font license: SIL OFL 1.1 (http://scripts.sil.org/OFL)
+* The [Octicons](http://octicons.github.com) css files license: MIT (http://choosealicense.com/licenses/mit/)
+* The [gem octicons-rails](http://github.com/torbjon/octicons-rails) code licence: MIT (http://choosealicense.com/licenses/mit/)
