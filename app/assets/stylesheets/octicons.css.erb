@@ -1,5 +1,5 @@
 /*!
- *  Octicons 2.0.2 by Github - http://octicons.github.com/
+ *  Octicons 2.1.0 by Github - http://octicons.github.com/
  *
  *  (c) 2012-2014 GitHub
  *
@@ -22,6 +22,8 @@
   font-style: normal;
 }
 
+/*.octicon is optimized for 16px. */
+/*.mega-octicon is optimized for 32px but can be used larger.*/
 .octicon {
   font: normal normal 16px octicons;
   line-height: 1;
@@ -29,6 +31,11 @@
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
 }
 .mega-octicon {
   font: normal normal 32px octicons;
@@ -37,6 +44,11 @@
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
 }
 
 .octicon-alert:before { content: '\f02d'} /*  */
