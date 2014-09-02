@@ -1,7 +1,7 @@
-require "octicons-rails/version"
+require 'octicons-rails/version'
 
 module Octicons
   module Rails
-    require "octicons-rails/engine"
+    require 'octicons-rails/engine'
   end
 end
