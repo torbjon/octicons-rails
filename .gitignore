@@ -3,3 +3,4 @@
 Gemfile.lock
 gemfiles/*.lock
 .sass-cache
+/tmp
