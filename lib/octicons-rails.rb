@@ -1,6 +1,6 @@
 require 'octicons-rails/version'
 
-module Octicons
+module Octiconsi
   module Rails
     require 'octicons-rails/engine'
   end
