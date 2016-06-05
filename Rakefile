@@ -1,5 +1,6 @@
 require 'open-uri'
 require 'octicons-rails/version'
+require 'bundler/gem_tasks'
 
 desc 'download and update octicons'
 task :update do
