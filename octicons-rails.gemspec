@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.summary     = 'Awesome Github Octicons with Rails asset pipeline'
   s.description = ''
   s.license     = 'MIT'
-  s.add_dependency 'railties', '>= 3.2', '< 5.0'
+  s.add_dependency 'railties', '>= 3.2', '< 5.1'
 end
